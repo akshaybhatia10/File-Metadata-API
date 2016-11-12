@@ -14,14 +14,7 @@
 
 Upload file to view it file size(in bytes).
 ```text
-https://.herokuapp.com
-```
-
-## Output:
-
-```text
-https://.herokuapp.com/upload
-```
+https://apple-filesize.herokuapp.com
 
 ```js
 {
