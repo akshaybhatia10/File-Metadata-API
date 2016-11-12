@@ -16,11 +16,10 @@ Upload file to view it file size(in bytes).
 ```text
 https://apple-filesize.herokuapp.com
 
-```js
+
 {
 "name": "image.png",
-"size": 258957,
+"size": 258957
 
 }
-```
 
