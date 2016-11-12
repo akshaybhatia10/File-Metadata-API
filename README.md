@@ -1,5 +1,5 @@
 # Author
-![@akshaybhatia10]
+akshaybhatia10
 
 
 [Github](https://github.com/akshaybhatia10) 
